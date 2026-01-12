@@ -2,7 +2,7 @@ cask "cf-zone-status" do
   version "1.0.0"
   sha256 :no_check
 
-  url "https://github.com/sheyam/cf-zone-status/releases/download/v#{version}/cf-zone-status-v#{version}.dmg"
+  url "https://github.com/sheyam/cf-zone-status/releases/download/v#{version}/cf-zone-status-v1.0.0.zip"
   name "Cloudflare Zone Status"
   desc "macOS menu bar app for monitoring Cloudflare zones with security analytics"
   homepage "https://github.com/sheyam/cf-zone-status"
